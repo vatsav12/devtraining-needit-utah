@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="NeedIt">0242fb8d0fa83200cd674f8ce1050e79</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>REPORT</link_type>
+        <map_page/>
+        <mobile_title>NeedIt Request by type</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name/>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report display_value="NeedIt Requests by Type.">19d409cf836ca2101e1f9370ceaad3d5</report>
+        <require_confirmation>true</require_confirmation>
+        <roles>x_58872_needit.needit_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-01 06:34:57</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>80bb01cb83aca2101e1f9370ceaad38c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt Request by type</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_app_module_80bb01cb83aca2101e1f9370ceaad38c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-01 06:34:57</sys_updated_on>
+        <timeline_page/>
+        <title>NeedIt Request by type</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>d766c3971b19c61819254089bd4bcb72</instance_id>
+        <instance_name>dev257404</instance_name>
+        <name>sys_app_module_80bb01cb83aca2101e1f9370ceaad38c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="NeedIt">0242fb8d0fa83200cd674f8ce1050e79</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>REPORT</link_type><map_page/><mobile_title>NeedIt Request by type</mobile_title><mobile_view_name>Mobile</mobile_view_name><name/><order/><override_menu_roles>false</override_menu_roles><query/><report display_value="NeedIt Requests by Type.">19d409cf836ca2101e1f9370ceaad3d5</report><require_confirmation>true</require_confirmation><roles>x_58872_needit.needit_user</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-01 06:34:57</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>80bb01cb83aca2101e1f9370ceaad38c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>NeedIt Request by type</sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_app_module_80bb01cb83aca2101e1f9370ceaad38c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-01 06:34:57</sys_updated_on><timeline_page/><title>NeedIt Request by type</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>443765842</payload_hash>
+        <record_name>NeedIt Request by type</record_name>
+        <reverted_from/>
+        <source>dbab967e8360a2101e1f9370ceaad374</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-01 06:34:57</sys_created_on>
+        <sys_id>54fb45cb83aca2101e1f9370ceaad3a7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>195f00f6b990000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-01 06:34:57</sys_updated_on>
+        <type>Module</type>
+        <update_guid>58fb45cb0daca21062e7771a07efaea6</update_guid>
+        <update_guid_history>58fb45cb0daca21062e7771a07efaea6:443765842</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="NeedIt Request by type">864b25838360e2101e1f9370ceaad3c0</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-01 08:51:53</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>0170ab59dde041e682946c4804e3dd89</sys_id>
+        <sys_metadata>80bb01cb83aca2101e1f9370ceaad38c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt Request by type</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_app_module_80bb01cb83aca2101e1f9370ceaad38c</sys_update_name>
+        <sys_update_version display_value="sys_app_module_80bb01cb83aca2101e1f9370ceaad38c">54fb45cb83aca2101e1f9370ceaad3a7</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-01 08:51:53</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
